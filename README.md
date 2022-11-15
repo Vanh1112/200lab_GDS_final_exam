@@ -2,7 +2,7 @@
 
 **Giả sử: Team lead của team sale yêu cầu bạn làm 1 cái dashboard để theo dõi hiệu quả của team sale, và để xem số liệu chi tiết về khách hàng trên dashboard đó.** 
 
-1. Hãy kể ra trình tự mà các bạn xử lí yêu cầu này của sếp
+1. Hãy kể ra trình tự mà các bạn xử lí yêu cầu này của bạn team leader đó
 2. Xây dựng 1 cái dashboard trên google data studio để theo dõi hiệu quả của team sale 
 
 ### Note: 
