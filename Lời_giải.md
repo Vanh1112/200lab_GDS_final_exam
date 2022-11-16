@@ -23,3 +23,5 @@
 # Xây Dựng Dashboard 
 
 [Link Dashboard mẫu](https://datastudio.google.com/u/1/reporting/d0be3480-7114-4630-8a9a-f220cf490ae1/page/D6INB)
+
+### Note: Các bạn chủ động thêm các filter phù hợp để tăng tính tương tác cho dashboard nhé
