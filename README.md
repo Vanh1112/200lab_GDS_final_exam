@@ -6,4 +6,4 @@
 2. Xây dựng 1 cái dashboard trên google data studio để theo dõi hiệu quả của team sale 
 
 ### Note: 
-* Sử dụng data set [CRM template](https://docs.google.com/spreadsheets/d/17hpq9F-sXcWMsW7r4GHn-r5MBNzU6XglUzlvbBFg89A/edit#gid=474513411)
+* Sử dụng data của sheet CRM Template Final Exam: [CRM template](https://docs.google.com/spreadsheets/d/17hpq9F-sXcWMsW7r4GHn-r5MBNzU6XglUzlvbBFg89A/edit#gid=1656921098)
