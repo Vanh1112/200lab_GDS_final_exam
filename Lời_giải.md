@@ -22,6 +22,6 @@
 
 # Xây Dựng Dashboard 
 
-[Link Dashboard mẫu](https://datastudio.google.com/reporting/d0be3480-7114-4630-8a9a-f220cf490ae1)
+[Link Dashboard mẫu](https://lookerstudio.google.com/reporting/9341db29-a3cc-4672-9cd9-085fa3f111f0)
 
 ### Note: Các bạn chủ động thêm các filter phù hợp để tăng tính tương tác cho dashboard nhé
